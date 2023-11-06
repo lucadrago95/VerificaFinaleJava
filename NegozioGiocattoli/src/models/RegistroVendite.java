@@ -8,6 +8,12 @@ public abstract class RegistroVendite {
 		
 	}
 	
+//	metodo
+	//riempi inventario = serve per riempire la lista di giocattoli
+	public void inserisciGiocattoli() {
+		
+	}
+	
 	//metodo 
 	//leggi inventario = permette di sapere quanti giochi hai ancora e disponibili alla vendita
 	public void leggiInventario() {

@@ -9,10 +9,14 @@ public class Main {
 		
 		Vendita v = new Vendita();
 		
-		//prova metodo 
-		v.leggiGiocattolo();
 		
 		
+		//prova metodi 
+		v.inserisciGiocattoli();
+		
+		v.leggiInventario();
+		
+		v.compraGiocattolo();
 	}
 
 }
